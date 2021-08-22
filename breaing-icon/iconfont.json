@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1842403",
+      "name": "状态",
+      "font_class": "off",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "2457581",
+      "name": "状态",
+      "font_class": "normal",
+      "unicode": "e509",
+      "unicode_decimal": 58633
+    },
+    {
+      "icon_id": "9645809",
+      "name": "测试点位",
+      "font_class": "ceshidianwei",
+      "unicode": "e7e7",
+      "unicode_decimal": 59367
+    },
+    {
+      "icon_id": "10282959",
+      "name": "信号",
+      "font_class": "xinhao",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "12152417",
+      "name": "电量80",
+      "font_class": "dianliang",
+      "unicode": "e869",
+      "unicode_decimal": 59497
+    },
+    {
+      "icon_id": "13442700",
+      "name": "温度",
+      "font_class": "wendu",
+      "unicode": "e785",
+      "unicode_decimal": 59269
+    }
+  ]
+}

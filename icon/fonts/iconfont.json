@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9015332",
+      "name": "电池1",
+      "font_class": "dianchi1",
+      "unicode": "e514",
+      "unicode_decimal": 58644
+    },
+    {
+      "icon_id": "15456600",
+      "name": "信号强度-三",
+      "font_class": "xinhaoqiangdu-san",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "15456602",
+      "name": "信号强度-一",
+      "font_class": "xinhaoqiangdu-yi",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    }
+  ]
+}

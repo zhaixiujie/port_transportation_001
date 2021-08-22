@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1586590687881'); /* IE9 */
+  src: url('iconfont.eot?t=1586590687881#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAO8AAsAAAAAB6AAAANtAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCfIJUATYCJAMMCwgABCAFhG0HQRulBsg+QCa3/gCZJQuEbJiM9BiVvacmNuXp5enHzX/a3/+vPTNXc84jk8RkNXa6Efm50fWD7bWP0M79r7U5xyz5hILGTbhXmLc7K/Zt7h7XCPEikSjW6JQABMRa29P0/w3zLuKlMES8fiWLVisBEqWKh+LSADK/6Z8eSAVeklFWtYBucPznB7zBn8Db8K3Daa0tixB+CxBdgWPqUzwHdJfIsoig4wHPBzpQVNNb9BfGP8Lr1qQayMdmIIDkLgCNZh1fQx8BexGAFjsigr6cnmjJJEZEXzMxBm0jYQwn2BuYC39PTwqMAKOLgANLpncCWL/NfTTwfg1M+gQI5rMCkKYBHBAAEEBTtfZytTgYgJOGvN6eqCcQNpdH0wj5plRPf3gAQ0ApMF0FAD4QYvCRc/mpooET3nU6BwD6EeEegAXZaQv1DfTlsWVGCFUl+rCpST5cim7n8wTeXzCTfPnCa2j3zLG+dK4otWZQ86Xfdf/lO/d/EbPn5vbntHLjrOP0pGL1eLrtrRRyof1jJ3r0dCUo/Vot/bwWHX/nTp8uawzSFPRLmiQaqJBL51OXAxeTZ5f8+7YVTvuUerree3yQ7diU2nr1bhp8sq1u39f/HqKXiHJ8yT5IiJNWRE3DPWii9qHB7/JdcpnZPThYZtadf3tqRA39ptf86/aZf52P8gr6Bm29+aduObYtP+/l2abDCThQ8ryUAuuDj4N+UnLf+kB4O22nHgDQVtvjqVpN3THq/4t2w7fD7LkbTfhJEQCAb0f7dyjulwpGDHoL/hBtjBZCsSlCA491GVr5doTL0HxdHaTpggbd1n6NV9u9dJgY2aVgDNzAGXkQBTUAOooI6BklQ/KXPV1ho1sNxSYAfkYYiKV9MOYuwVl6JwrqT+jY+wM9y4BDKg1sFlR4BR0yvZtJOMDGLnb4qgwdkwxEmZcctXOyWVFIu2XrEg+G1jcWI3tcsp1jSE8nWuuVEFutKjCLbcd5rrDTqpR9WWoX0V5ww3TdjZaaVAED0lmMCBZAjbpQB59SCv3qYqD0/Uss0pYjtqWswX6LWU5SPwoVJKQHcU9e9iq7l2t6dETW9BIh1MpSCiiLWVlOQQV11rdLMZ9Y0j7Cr3mCoVJrX/nS+sri860BkLCQB4w4CZjd+iqLTTFlVD6YVmODSpMyAgAAAAA=') format('woff2'),
+  url('iconfont.woff?t=1586590687881') format('woff'),
+  url('iconfont.ttf?t=1586590687881') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1586590687881#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon-chakanxq:before {
+  content: "\e62f";
+}
+
+.icon-baojing:before {
+  content: "\e60e";
+}
+

@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4331526",
+      "name": "展开侧边栏",
+      "font_class": "zhankaicebianlan",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}

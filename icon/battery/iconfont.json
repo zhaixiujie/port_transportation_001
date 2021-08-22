@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7640568",
+      "name": "电量-1",
+      "font_class": "dianliang-",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "7640569",
+      "name": "电量-2",
+      "font_class": "dianliang-1",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "7640570",
+      "name": "电量-3",
+      "font_class": "dianliang-2",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "13701710",
+      "name": "电量_低",
+      "font_class": "dianliang_di",
+      "unicode": "e54f",
+      "unicode_decimal": 58703
+    },
+    {
+      "icon_id": "13701714",
+      "name": "电量_中",
+      "font_class": "dianliang_zhong",
+      "unicode": "e550",
+      "unicode_decimal": 58704
+    }
+  ]
+}

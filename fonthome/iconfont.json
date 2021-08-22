@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1396217",
+      "name": "查看详情",
+      "font_class": "icon-chakanxq",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "10278182",
+      "name": "报警",
+      "font_class": "baojing",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
